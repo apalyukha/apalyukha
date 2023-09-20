@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apalyukha
-- 💻 Mainly focused on Backend & DevOps.
-- 🔭 Interested in Golang, Python, (AWS, GCP), Kubernetes Docker CI/CD
+- 💻 Mainly focused on ...
+- 🔭 Interested in ...
 - 🌱 I’m currently learning 🤓
 - 👨‍💻 Linkedin | Instagram | Twitter: **@apalyukha**
